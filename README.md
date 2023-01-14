@@ -1,6 +1,6 @@
 # Realtek RTL8811CU Driver for Linux
 
-[![Build Status](https://travis-ci.com/fastoe/RTL8811CU.svg?branch=master)](https://app.travis-ci.com/github/fastoe/RTL8811CU)
+[![Build Status](https://github.com/fastoe/RTL8811CU/actions/workflows/rtl8811cu.yml/badge.svg)](https://github.com/fastoe/RTL8811CU/actions)
 
 Driver for 802.11ac USB adapter with RTL8811CU chipset.
 
