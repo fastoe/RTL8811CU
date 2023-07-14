@@ -31,3 +31,5 @@ jobs:
     - name: Compile
       run: |
         make
+        sudo make install
+        sudo reboot
