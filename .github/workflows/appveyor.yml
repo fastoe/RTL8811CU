@@ -1,0 +1,15 @@
+image: Ubuntu
+
+install:
+- sh: sudo apt -y update
+- sh: sudo apt -y upgrade
+- sh: sudo apt dist-upgrade
+- sh: sudo apt -y install build-essential dkms git bc
+
+test_script:
+- sh: uname -a
+
+build_script:
+- sh: make
+
+build: off
