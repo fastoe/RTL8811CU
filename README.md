@@ -5,7 +5,6 @@
 Driver for 802.11ac USB adapter with RTL8811CU chipset.
 
 ```bash
-clone the new branch:
 sudo apt update
 sudo apt install -y dkms git bc
 git clone https://github.com/fastoe/RTL8811CU.git
