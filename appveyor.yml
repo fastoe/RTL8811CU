@@ -1,7 +1,10 @@
 version: '1.0.{build}'
 
 image:
-  - Ubuntu
+  - Ubuntu 22.04
+  - Ubuntu 20.04
+  - Ubuntu 18.04.4
+  - Ubuntu 16.04.6
 
 platform:
   - x64
