@@ -23,10 +23,12 @@ jobs:
 
     - name: configure
       run: |
+        uname -a
         sudo apt -y update
         sudo apt -y upgrade
         sudo apt dist-upgrade
         sudo apt -y install build-essential dkms git bc
+        uname -a
 
     - name: Compile
       run: |
