@@ -2,9 +2,8 @@ name: Makefile CI
 
 on:
   push:
-  workflow_dispatch:
-  schedule:
-    - cron: 45 12 * * *
+    branches:
+      - main
 
 jobs:
   build:
