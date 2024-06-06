@@ -1,6 +1,8 @@
 # Realtek RTL8811CU Driver for Linux
 
-[![Build Status](https://github.com/fastoe/RTL8811CU/actions/workflows/rtl8811cu.yml/badge.svg)](https://github.com/fastoe/RTL8811CU/actions)
+Build Status
+Ubuntu 22.04: [![Build Status](https://github.com/fastoe/RTL8811CU/actions/workflows/rtl8811cu.yml/badge.svg)](https://github.com/fastoe/RTL8811CU/actions)
+Ubuntu 20.04: [![Build Status](https://github.com/fastoe/RTL8811CU/actions/workflows/rtl8811cu.yml/badge.svg)](https://github.com/fastoe/RTL8811CU/actions)
 
 Driver for 802.11ac USB adapter with RTL8811CU chipset.
 
