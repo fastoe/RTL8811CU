@@ -24,10 +24,10 @@ jobs:
     - name: configure
       run: |
         uname -a
-        sudo apt -y update
-        sudo apt -y upgrade
-        sudo apt dist-upgrade
-        sudo apt -y install linux-headers-generic dkms git bc
+        sudo apt-get update
+        sudo apt-get upgrade
+        sudo apt-get dist-upgrade
+        sudo apt-get -y install linux-headers-generic dkms git bc
         uname -a
 
     - name: Compile
