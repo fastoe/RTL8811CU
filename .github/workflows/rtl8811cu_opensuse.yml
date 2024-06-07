@@ -24,7 +24,7 @@ jobs:
     - name: Configure
       run: |
         sudo zypper update -y
-        sudo zypper install -y linux-headers-generic dkms git bc
+        sudo zypper install -y kernel-default-devel dkms git bc
         uname -a
 
     - name: Compile
