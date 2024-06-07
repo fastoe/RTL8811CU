@@ -2,7 +2,7 @@
 
 Build Status
 
-| OS  | Status |
+| OS  | Build status |
 | ------------- | ------------- |
 | Ubuntu 22.04  | [![Build Status](https://github.com/fastoe/RTL8811CU/actions/workflows/rtl8811cu_Debian.yml/badge.svg)](https://github.com/fastoe/RTL8811CU/actions) |
 | Ubuntu 20.04  | [![Build Status](https://github.com/fastoe/RTL8811CU/actions/workflows/rtl8811cu_Debian.yml/badge.svg)](https://github.com/fastoe/RTL8811CU/actions) |
