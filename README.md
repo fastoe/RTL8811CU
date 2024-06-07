@@ -8,6 +8,8 @@ Ubuntu 20.04: [![Build Status](https://github.com/fastoe/RTL8811CU/actions/workf
 
 Driver for 802.11ac USB adapter with RTL8811CU chipset.
 
+https://www.ebay.com/itm/395453935268
+
 ```bash
 sudo apt update
 sudo apt-get -y install linux-headers-generic dkms git bc
