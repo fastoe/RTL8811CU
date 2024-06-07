@@ -13,7 +13,7 @@ jobs:
 
     strategy:
         matrix:
-            os: [ubuntu-22.04, ubuntu-20.04]
+            os: [ubuntu-22.04, ubuntu-20.04, kali-linux-2024.1, linuxmint-21.3-cinnamon]
 
     steps:
     - name: Checkout
