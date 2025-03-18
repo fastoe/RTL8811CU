@@ -13,7 +13,7 @@ Driver for 802.11ac USB adapter with RTL8811CU chipset.
 | openSUSE Leap 15.5 | [![Build Status](https://github.com/fastoe/RTL8811CU/actions/workflows/rtl8811cu_SUSE-Linux.yml/badge.svg)](https://github.com/fastoe/RTL8811CU/actions) |
 
 ### A few known wireless cards that use this driver include:
-* [Fastoe AC659 USB Wi-Fi Adapter](https://www.ebay.com/itm/395453935268)
+* [Fastoe AC659 USB Wi-Fi Adapter](https://www.fastoe.com/p_ac650)
 
 ### Manual installation
 For Ubuntu/Kali Linux/LinuxMint
